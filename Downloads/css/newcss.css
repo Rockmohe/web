@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+ 
+ body{
+  background-color: rgb(0, 0, 0);
+ }
+
+ .navbar{
+  color: white;
+  font-size: 30px;
+  margin: auto;
+  width: 85%;
+  padding: 35px 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+ }
+
+ .navbar ul li{
+  text-decoration: none;
+  display: inline-block;
+  margin: 0 20px;
+  text-transform: uppercase;
+  
+
+  
+ }
+
+ a:hover{
+  color: #e85ff5;
+ }
+
+ h1{
+  color: rgb(241, 209, 241);
+  font-size: 90px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin-left: 150px ;
+  margin-top: 150px;
+  
+  
+ }
+
+ h2{
+  color: rgb(230, 202, 77);
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin-left: 150px ;
+  margin-top: 50px;
+  
+ }
+ h3{
+  color: rgb(230, 202, 77);
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  margin-left: 150px ;
+  margin-top: 50px;
+ }
+
+ .side-pic{
+ width: 500px;
+ position: absolute;
+ bottom: 180;
+ right: 5%;
+ 
+ }
+.Name{
+  margin-top: 50px;
+  color: gold;
+  margin-left: 200;
+}
+
+ul,li{
+  font-size: 45px;
+  color: white ;
+  font-family: 'Poppins', sans-serif ;
+  margin-left: 105px;
+  
+}
+.discord-logo{
+  width: 530px;
+ position: absolute;
+ bottom: 350px;
+ right: 5%;
+  
+}
+
+.join-link{
+  text-decoration: none;
+  color: white;
+  margin-left: 1300px;
+  margin-right: 395px;
+  font-size: 30px;
+  font-family: 'Poppins' , sans-serif;
+  margin-top: -200px;
+  border: 2px solid #ec0000;
+ background-color: #ec0000;
+ text-align: center;
+ border-radius: 100px;
+ padding: 10px;
+}
+
+p{
+  font-family: 'Poppins' , sans-serif;
+  color: goldenrod;
+  font-size: 30px;
+  margin-left: 100px;
+  gap: 10px;
+  font-size: 25px;
+}
+
+.about{
+  margin-top: -90px;
+  padding: 25px;
+  
+}
+.mcweb{
+  width: 530px;
+ position: absolute;
+ bottom: 30px;
+ right: 5%;
+}
